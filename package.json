@@ -10,6 +10,7 @@
     "await",
     "promise"
   ],
+  "repository": "https://github.com/thegrtman/async-catcher",
   "author": "thegrtman <kgroat09@gmail.com>",
   "license": "ISC"
 }
