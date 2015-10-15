@@ -1,0 +1,15 @@
+{
+  "name": "async-catcher",
+  "version": "1.0.0",
+  "description": "An error catching wrapper for ES7 async/await functions in express",
+  "main": "index.js",
+  "keywords": [
+    "express",
+    "es7",
+    "async",
+    "await",
+    "promise"
+  ],
+  "author": "thegrtman <kgroat09@gmail.com>",
+  "license": "ISC"
+}
