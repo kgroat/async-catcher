@@ -10,7 +10,12 @@
     "await",
     "promise"
   ],
+  "types": "./index.d.ts",
   "repository": "https://github.com/thegrtman/async-catcher",
   "author": "thegrtman <kgroat09@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.11.1",
+    "typescript": "^2.8.1"
+  }
 }
